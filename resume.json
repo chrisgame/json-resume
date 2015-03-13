@@ -1,11 +1,10 @@
 {
   "basics": {
     "name": "Chris Game",
-    "label": "Programmer",
+    "label": "Software Engineer",
     "picture": "http://www.gravatar.com/avatar/75d866e8f7aa0cbfc7a78b5df8211535.png",
     "email": "chris.game@robbiebobbins.com",
-    "website": "http://robbiebobbins.com",
-    "summary": "I am a passionate developer always seeking to improve my knowledge and technical understanding. I have been a developer all of my working life and have learnt many skills from being in the industry as long as i have. I have a good understanding of the full stack, but for me this is not just a technical statement but extends from an idea all the way through to support and performance tuning. Having been in this feedback loop for a good few years now i have learned a few lessons. I care deeply about the work i produce and spend a lot of my own time trying to better myself. Currently focussing most of my energy on ember and whats left on d3.",
+    "summary": "I am a passionate developer always seeking to improve my knowledge and technical understanding. I have been a developer all of my working life and have learnt many skills from being in the industry as long as I have. I have a good understanding of the full stack, but for me this is not just a technical statement but extends from an idea all the way through to support and performance tuning. Having been in this feedback loop for a good few years now I have learned a few lessons. I care deeply about the work I produce and spend a lot of my own time trying to better myself. Currently focussing most of my energy on ember and whats left on d3.",
     "location": {
       "city": "London",
       "countryCode": "UK",
@@ -25,27 +24,29 @@
   "work": [{
     "company": "BSkyB",
     "position": "Agile Software Engineer",
-    "websites": ["http://help.sky.com/", "http://servicestatus.sky.com", "http://broadbandconnection.sky.com" ],
+    "website": "http://help.sky.com",
+    "website": "http://broadbandconnection.sky.com",
+    "website": "http://servicestatus.sky.com",
     "startDate": "2009-05-01",
     "endDate": "2015-01-01",
-    "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years i have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant i was rewarded the control to hire and shape the team as time went on. When i first started i was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically rails, rails-api, sinatra, sails, express, koa and ember using data storage such as postgres, S3, redis and mongo",
+    "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. When I first started I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically rails, rails-api, sinatra, sails, express, koa and ember using data storage such as postgres, S3, redis and mongo",
     "highlights": [
       "I introduced ruby to the team and always trying to find the right tool for the job led us on to build 100% javascript apps",
-      "I pushed my ruby knowledge to a level where i was able to mentor others with no ruby knowledge to proficient developers whilst delivering a product to a deadline",
+      "I pushed my ruby knowledge to a level where I was able to mentor others with no ruby knowledge to proficient developers whilst delivering a product to a deadline",
       "I was able to convince the department heads that the developers could and should be responsible for testing their own code (a big deal in this environment!)",
       "I built a strong enough case to be allowed to deploy applications using heroku rather than the internal infrastructure",
       "I built a continuous deployment build chain that included a step that captured screenshots of pages to check for styling regressions",
       "I helped push the adoption of github across the department",
-      "I'm also completly happy to follow someone else's lead when they are using good tech ;-)"
+      "I'm also completely happy to follow someone else's lead when they are using good tech ;-)"
     ]
   },
   {
     "company": "AOL Time Warner",
     "position": "Senior Engineer",
-    "website": "http://www.aolbroadband.co.uk/",
+    "website": "http://www.aolbroadband.co.uk",
     "startDate": "2007-05-01",
     "endDate": "2009-04-01",
-    "summary": "This was my first experience of working in an agile/XP environment. It was a vast improvement over the ways of working i had experienced up to this point. The feedback loop was much faster and i instantly felt i was learning at a much faster rate. This was also due to pairing, a skill i did not posses before this role, i found the experience very rewarding. I learnt a lot technically but also learnt how different peoples thought processes and ways of working vary. I use what i learnt during this time on a day to day basis. This was predominately a Java environment but ruby was used for testing and towards the end of my time in this role we were writing some of the apps in ruby",
+    "summary": "This was my first experience of working in an agile/XP environment. It was a vast improvement over the ways of working I had experienced up to this point. The feedback loop was much faster and I instantly felt I was learning at a much faster rate. This was also due to pairing, a skill I did not posses before this role, I found the experience very rewarding. I learnt a lot technically but also learnt how different peoples thought processes and ways of working vary. I use what I learnt during this time on a day to day basis. This was predominately a Java environment but ruby was used for testing and towards the end of my time in this role we were writing some of the apps in ruby",
     "highlights": [
       "Progressing from being the one of the first junior developers the team hired to being a valued senior developer",
       "Performing the role of scrum master for six months"
@@ -65,7 +66,7 @@
  {
     "company": "D.A. Systems",
     "position": "Analyst Programmer",
-    "website": "http://www.da-systems.co.uk/",
+    "website": "http://www.da-systems.co.uk",
     "startDate": "2000-07-01",
     "endDate": "2001-05-01",
     "summary": "DA Systems provide IT solutions for the transport & logistics industry throughout the UK. This was a great job to have after uni. I went straight in to a small team developing a new product. I was using Delphi here",
@@ -76,7 +77,7 @@
 {
     "company": "Aspley Ltd",
     "position": "Technician",
-    "website": "http://www.efit.co.uk/",
+    "website": "http://www.efit.co.uk",
     "startDate": "1997-08-01",
     "endDate": "1998-09-01",
     "summary": "Aspley produce E-Fit a facial identification application that is sold mainly to the security services. My responsibilities ranged from technical support to implementing updates to the application.",
@@ -92,10 +93,8 @@
   }],
   "publications": [{
     "name": "Agile Horizons 2013",
-    "publisher": "Company",
     "releaseDate": "2013-06-01",
-    "website": "",
-    "summary": "Spoke at a conference sky hosted for about 200 people that included their own staff and guests from other areas of the industry including the BBC"
+    "summary": "Spoke at a conference Sky hosted for about 200 people that included their own staff and guests from other areas of the industry including the BBC"
   }],
   "interests": [{
     "name": "Mechcanical Engineering",
@@ -115,7 +114,7 @@
     ]
   },
   {
-    "name": "Diy",
+    "name": "DIY",
     "keywords": [
       "plumbing",
       "plastering",
