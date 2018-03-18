@@ -25,68 +25,70 @@
       "url": "http://uk.linkedin.com/in/chrisgame"
     }]
   },
-  "work": [{
-    "company": "BSkyB",
-    "position": "Agile Software Engineer",
-    "website": "http://help.sky.com",
-    "website": "http://broadbandconnection.sky.com",
-    "website": "http://servicestatus.sky.com",
-    "startDate": "2009-05-01",
-    "endDate": "2015-01-01",
-    "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. When I first started I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically rails, rails-api, sinatra, sails, express, koa and ember using data storage such as postgres, S3, redis and mongo.",
-    "highlights": [
-      "I introduced ruby to the team and always trying to find the right tool for the job led us on to build 100% javascript apps.",
-      "I pushed my ruby knowledge to a level where I was able to mentor others with no ruby knowledge to proficient developers whilst delivering a product to a deadline.",
-      "I was able to convince the department heads that the developers could and should be responsible for testing their own code (a big deal in this environment!).",
-      "I built a strong enough case to be allowed to deploy applications using heroku rather than the internal infrastructure.",
-      "I built a continuous deployment build chain that included a step that captured screenshots of pages to check for styling regressions.",
-      "I helped push the adoption of github across the department.",
-      "I'm also completely happy to follow someone else's lead when they are using good tech ;-)"
-    ]
-  },
-  {
-    "company": "AOL Time Warner",
-    "position": "Senior Engineer",
-    "website": "http://www.aolbroadband.co.uk",
-    "startDate": "2007-05-01",
-    "endDate": "2009-12-20",
-    "summary": "This was my first experience of working in an agile/XP environment. It was a vast improvement over the ways of working I had experienced up to this point. The feedback loop was much faster and I instantly felt I was learning at a much faster rate. This was also due to pairing, a skill I did not posses before this role, I found the experience very rewarding. I learnt a lot technically but also learnt how different peoples thought processes and ways of working vary. I use what I learnt during this time on a day to day basis. This was predominately a Java environment but ruby was used for testing and towards the end of my time in this role we were writing some of the apps in ruby.",
-    "highlights": [
-      "Progressing from being the one of the first junior developers the team hired to being a valued senior developer.",
-      "Performing the role of scrum master for six months."
-    ]
-  },
- {
-    "company": "Video Networks Ltd",
-    "position": "Analyst Programmer",
-    "website": "http://www.bloomberg.com/research/stocks/private/snapshot.asp",
-    "startDate": "2001-05-01",
-    "endDate": "2007-04-01",
-    "summary": "Worked as a Analyst Programmer on various projects from content management to provisioning systems. The technologies here were java and C++.",
-    "highlights": [
-      "Actually getting to write some code! There was a lot of spec writing and architectural designing required before you were allowed to start coding."
-    ]
-  },
- {
-    "company": "D.A. Systems",
-    "position": "Analyst Programmer",
-    "website": "http://www.da-systems.co.uk",
-    "startDate": "2000-07-01",
-    "endDate": "2001-05-01",
-    "summary": "DA Systems provide IT solutions for the transport & logistics industry throughout the UK. This was a great job to have after uni. I went straight in to a small team developing a new product. I was using Delphi here.",
-    "highlights": [
-      "Writing an interface gateway to allow a number of mobile devices to feed data into the app."
-    ]
-  },
-{
-    "company": "Aspley Ltd",
-    "position": "Technician",
-    "website": "http://www.efit.co.uk",
-    "startDate": "1997-08-01",
-    "endDate": "1998-09-01",
-    "summary": "Aspley produce E-Fit a facial identification application that is sold mainly to the security services. My responsibilities ranged from technical support to implementing updates to the application.",
-    "highlights": []
-  }],
+  "work": [
+    {
+      "company": "BSkyB",
+      "position": "Agile Software Engineer",
+      "website": "http://help.sky.com",
+      "website": "http://broadbandconnection.sky.com",
+      "website": "http://servicestatus.sky.com",
+      "startDate": "2009-05-01",
+      "endDate": "2015-01-01",
+      "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. When I first started I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically rails, rails-api, sinatra, sails, express, koa and ember using data storage such as postgres, S3, redis and mongo.",
+      "highlights": [
+        "I introduced ruby to the team and always trying to find the right tool for the job led us on to build 100% javascript apps.",
+        "I pushed my ruby knowledge to a level where I was able to mentor others with no ruby knowledge to proficient developers whilst delivering a product to a deadline.",
+        "I was able to convince the department heads that the developers could and should be responsible for testing their own code (a big deal in this environment!).",
+        "I built a strong enough case to be allowed to deploy applications using heroku rather than the internal infrastructure.",
+        "I built a continuous deployment build chain that included a step that captured screenshots of pages to check for styling regressions.",
+        "I helped push the adoption of github across the department.",
+        "I'm also completely happy to follow someone else's lead when they are using good tech ;-)"
+      ]
+    },
+    {
+      "company": "AOL Time Warner",
+      "position": "Senior Engineer",
+      "website": "http://www.aolbroadband.co.uk",
+      "startDate": "2007-05-01",
+      "endDate": "2009-12-20",
+      "summary": "This was my first experience of working in an agile/XP environment. It was a vast improvement over the ways of working I had experienced up to this point. The feedback loop was much faster and I instantly felt I was learning at a much faster rate. This was also due to pairing, a skill I did not posses before this role, I found the experience very rewarding. I learnt a lot technically but also learnt how different peoples thought processes and ways of working vary. I use what I learnt during this time on a day to day basis. This was predominately a Java environment but ruby was used for testing and towards the end of my time in this role we were writing some of the apps in ruby.",
+      "highlights": [
+        "Progressing from being the one of the first junior developers the team hired to being a valued senior developer.",
+        "Performing the role of scrum master for six months."
+      ]
+    },
+    {
+      "company": "Video Networks Ltd",
+      "position": "Analyst Programmer",
+      "website": "http://www.bloomberg.com/research/stocks/private/snapshot.asp",
+      "startDate": "2001-05-01",
+      "endDate": "2007-04-01",
+      "summary": "Worked as a Analyst Programmer on various projects from content management to provisioning systems. The technologies here were java and C++.",
+      "highlights": [
+        "Actually getting to write some code! There was a lot of spec writing and architectural designing required before you were allowed to start coding."
+      ]
+    },
+    {
+      "company": "D.A. Systems",
+      "position": "Analyst Programmer",
+      "website": "http://www.da-systems.co.uk",
+      "startDate": "2000-07-01",
+      "endDate": "2001-05-01",
+      "summary": "DA Systems provide IT solutions for the transport & logistics industry throughout the UK. This was a great job to have after uni. I went straight in to a small team developing a new product. I was using Delphi here.",
+      "highlights": [
+        "Writing an interface gateway to allow a number of mobile devices to feed data into the app."
+      ]
+    },
+    {
+      "company": "Aspley Ltd",
+      "position": "Technician",
+      "website": "http://www.efit.co.uk",
+      "startDate": "1997-08-01",
+      "endDate": "1998-09-01",
+      "summary": "Aspley produce E-Fit a facial identification application that is sold mainly to the security services. My responsibilities ranged from technical support to implementing updates to the application.",
+      "highlights": []
+    }
+  ],
   "volunteer": [],
   "education": [{
     "institution": "University Of East Anglia",
@@ -100,38 +102,39 @@
     "releaseDate": "2013-06-01",
     "summary": "Spoke at a conference Sky hosted for about 200 people that included their own staff and guests from other areas of the industry including the BBC"
   }],
-  "interests": [{
-    "name": "Mechanical Engineering",
-    "keywords": [
-      "kit car",
-      "gt40",
-      "mr2 mk2 rev3 turbo",
-      "66' beetle",
-      "tig welding",
-      "fabrication"
-    ]
-  },
-  {
-    "name": "Photography",
-    "keywords": [
-      "canon"
-    ]
-  },
-  {
-    "name": "DIY",
-    "keywords": [
-      "plumbing",
-      "plastering",
-      "demolition"
-    ]
-  },
-  {
-    "name": "Beer",
-    "keywords": [
-      "doombar",
-      "broadside",
-      "etc"
-    ]
-  }
-]
+  "interests": [
+    {
+      "name": "Mechanical Engineering",
+      "keywords": [
+        "kit car",
+        "gt40",
+        "mr2 mk2 rev3 turbo",
+        "66' beetle",
+        "tig welding",
+        "fabrication"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "canon"
+      ]
+    },
+    {
+      "name": "DIY",
+      "keywords": [
+        "plumbing",
+        "plastering",
+        "demolition"
+      ]
+    },
+    {
+      "name": "Beer",
+      "keywords": [
+        "doombar",
+        "broadside",
+        "etc"
+      ]
+    }
+  ]
 }
