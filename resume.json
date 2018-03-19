@@ -27,13 +27,30 @@
   },
   "work": [
     {
+      "company": "Kayako",
+      "position": "Software Engineer",
+      "website": "https://www.kayako.com/free-trial",
+      "website": "http://<your-instance-name>.kayako.com/agent",
+      "website": "http://<your-instance-name>.kayako.com/admin",
+      "startDate": "2015-04-27",
+      "endDate": "2018-03-01",
+      "summary": "This was a great experience, working closely with the founders Varun and Jamie to build and improve the product. Kayako is a SASS solution that allows customers to manage conversations across many different channels, a replacement for the traditional help desk. I spent all my time working on the areas of the app that the agent uses to reply to customers and administer their instance. This was a single app written in Ember. Choosing an Ember for my day job was a very deliberate choice. Having used Ember in my previous role I was very keen to continue using it to create even more ambitious apps. These areas were certainly ambitious including an infinitely scrolling timeline of variable size items, multiple complex selection components including an automation rule builder, graphical search composer and a complex in app tab solution.",
+      "highlights": [
+        "Made contributions back to open source projects, this is something I would like to do more of going forwards.",
+        "Worked closely with design to make sure that the finished article was as good as it could possibly be. This included simple things like making sure svg's were rendering clearly in all states to more complicated issues that involved iterating on designs after feedback from user testing.",
+        "Diagnosed complex performance problems, sometimes these could be fixed completely other times they needed to be worked around until improvements were made to Ember it's self.",
+        "Introduced automated testing practices to the team, this was when I first started and although the testing story in Ember was already pretty good at this point there were still a lot of concepts and gotchas to learn. The team also took a lot of convincing that using ember-cli-mirage to have a complete mock of the api for testing was the correct way to go.",
+        "When I first started I also showed the team how to debug Ember apps effectively this helped improve productivity significantly."
+      ]
+    },
+    {
       "company": "BSkyB",
       "position": "Agile Software Engineer",
       "website": "http://help.sky.com",
       "website": "http://broadbandconnection.sky.com",
       "website": "http://servicestatus.sky.com",
       "startDate": "2009-05-01",
-      "endDate": "2015-01-01",
+      "endDate": "2015-04-24",
       "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. When I first started I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically rails, rails-api, sinatra, sails, express, koa and ember using data storage such as postgres, S3, redis and mongo.",
       "highlights": [
         "I introduced ruby to the team and always trying to find the right tool for the job led us on to build 100% javascript apps.",
