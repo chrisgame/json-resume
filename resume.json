@@ -117,38 +117,44 @@
   "publications": [
     {
       "name": "Ever had to hack around aligning text with an image?",
-      "summary": "I did and this what i found…",
       "releaseDate": "2018-03-01",
+      "summary": "I did and this what i found…",
+      "publisher": "Medium",
       "url": "https://medium.com/@TheGameOf79/ever-had-to-hack-around-aligning-text-with-an-image-92a68d918f00"
     },
     {
       "name": "Upgrading to Ember 2.15",
       "releaseDate": "2018-03-01",
       "summary": "We were on v2.8.3 of Ember and v2.7.0 of Ember Data so we had got quite a long way behind for various reasons but the performance improvements from the glimmer work that had been touted meant this had substantial value to our customers so we duly got stuck in to the upgrade process.",
+      "publisher": "Medium",
       "url": "https://medium.com/@TheGameOf79/upgrading-to-ember-2-15-a442fbfcc72f"
     },
     {
       "name": "Help the Helper: Chasing the cause of an unstable build in Travis",
       "releaseDate": "2016-06-01",
       "summary": "Do you think travis is getting slower at running your ember build? Maybe it’s your fault?",
+      "publisher": "Medium",
       "url": "https://medium.com/life-at-kayako/help-the-helper-5d490357ae27"
     },
     {
       "name": "Building software that users enjoy using is hard deploying it shouldn’t be!",
       "releaseDate": "2016-06-01",
       "summary": "Your process of deploying should be automatic, robust and give you the confidence that what is delivered to the user is what you expect.",
+      "publisher": "Medium",
       "url": "https://medium.com/@TheGameOf79/building-software-that-users-enjoy-using-is-hard-deploying-it-shouldnt-be-fa921987e497"
     },
     {
       "name": "Searching and replacing across multiple files in vim",
       "releaseDate": "2016-06-01",
       "summary": "There are many ways to achieve the same thing using vim, here is a way i found to search and replace in multiple files that worked for me.",
+      "publisher": "Medium",
       "url": "https://medium.com/@TheGameOf79/searching-and-replacing-across-multiple-files-in-vim-800024e9d1c9"
     },
     {
-      "name": "Ember London Meetup: Routes Manuva",
+      "name": "Routes Manuva",
       "releaseDate": "2015-04-01",
       "summary": "Unpacking Ember’s Routes and the Router",
+      "publisher": "Ember London Meetup",
       "url": "https://vimeo.com/124906883"
     },
     {
