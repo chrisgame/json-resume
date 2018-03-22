@@ -34,13 +34,14 @@
       "website": "https://www.kayako.com/free-trial",
       "startDate": "2015-04-27",
       "endDate": "2018-03-01",
-      "summary": "This was a great experience, working closely with the founders Varun and Jamie to build and improve the product. Kayako is a SaaS solution that allows customers to manage conversations across many different channels, a replacement for the traditional help desk. I spent all my time working on the areas of the app that the agent uses to reply to customers and administer their instance. This was a single app written in Ember. Choosing an Ember for my day job was a very deliberate choice. Having used Ember in my previous role I was very keen to continue using it to create even more ambitious apps. These areas were certainly ambitious including an infinitely scrolling timeline of variable size items, multiple complex selection components including an automation rule builder, graphical search composer and a complex in app tab solution.",
+      "summary": "Working closely with the founders to build and improve the product, Kayako is a SaaS solution that allows customers to manage conversations across many different channels. My time was focused on the areas of the app that the agent uses to reply to customers and administer their instance. This was a single app written in Ember. Having used Ember in my previous role, I was very keen to specialise and create even more ambitious apps like Kayako, which uses a number of complex features including an infinitely scrolling timeline of variable size items, multiple complex selection components including an automation rule builder, graphical search composer and a complex in-app tab solution.",
       "highlights": [
-        "Made contributions back to open source projects, this is something I would like to do more of going forwards.",
-        "Worked closely with design to make sure that the finished article was as good as it could possibly be. This included simple things like making sure svg's were rendering clearly in all states to more complicated issues that involved iterating on designs after feedback from user testing.",
-        "Diagnosed complex performance problems, sometimes these could be fixed completely other times they needed to be worked around until improvements were made to Ember it's self.",
-        "Introduced automated testing practices to the team, this was when I first started and although the testing story in Ember was already pretty good at this point there were still a lot of concepts and gotchas to learn. The team also took a lot of convincing that using ember-cli-mirage to have a complete mock of the api for testing was the correct way to go.",
-        "When I first started I also showed the team how to debug Ember apps effectively this helped improve productivity significantly."
+        "Contributed to open-source projects (something I would like to continue doing).",
+        "Working closely with design to make sure that the finished article was as good as it could possibly be, including simple things like making sure SVGs render clearly in all states, to more complicated issues that involved iterating on designs after feedback from user testing.",
+        "Diagnosed complex performance problems, some of which could be fixed immediately, and others that needed to be worked around until improvements were made to the Ember framework it's self.",
+        "Introduced automated testing practices to the team to stop regressions occurring in the product. Convinced the team to use ember-cli-mirage, to have a complete mock of the api for testing. This also allowed us to create all the scenarios that only occurred occassionally and make sure that we were handling them correctly by building tests for them in the CI process.",
+        "Go-to expert for debugging Ember apps, improving team productivity significantly.",
+        "Coaching “junior” engineers to help develop their skills, knowledge and thought processes"
       ]
     },
     {
