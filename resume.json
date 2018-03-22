@@ -52,14 +52,14 @@
       "website": "http://servicestatus.sky.com",
       "startDate": "2009-05-01",
       "endDate": "2015-04-24",
-      "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I have been here I have found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. When I first started I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically ember, rails, rails-api, sinatra, sails, express and koa using data storage such as postgres, S3, redis and mongo.",
+      "summary": "My current role has allowed me to explore the benefits of various automation techniques and tools to improve the productivity and ownership of the team. Over the years I found a good set of tools in github, circle ci, browserstack and heroku that have allowed myself and the rest of the team to develop a reputation within the company for cost effective high quality solutions. This also meant I was rewarded the control to hire and shape the team as time went on. Initially I was responsible for one java app but now that has become a suite of apps written in ruby and javascript. More specifically ember, rails, rails-api, sinatra, sails, express and koa using data storage such as postgres, S3, redis and mongo.",
       "highlights": [
-        "I introduced ruby to the team and always trying to find the right tool for the job led us on to build 100% javascript apps.",
-        "I pushed my ruby knowledge to a level where I was able to mentor others with no ruby knowledge to proficient developers whilst delivering a product to a deadline.",
-        "I was able to convince the department heads that the developers could and should be responsible for testing their own code (a big deal in this environment!).",
-        "I built a strong enough case to be allowed to deploy applications using heroku rather than the internal infrastructure.",
-        "I built a continuous deployment build chain that included a step that captured screenshots of pages to check for styling regressions.",
-        "I helped push the adoption of github across the department.",
+        "Introduced ruby to the team, always trying to find the right tool for the job led us on to build 100% javascript apps.",
+        "Mentored others with no ruby knowledge to proficient developers whilst delivering a product to a deadline.",
+        "Convinced the department heads that the developers could and should be responsible for testing their own code (a big deal in this environment!).",
+        "Built a strong enough case to be allowed to deploy applications using heroku rather than the internal infrastructure.",
+        "Created a continuous deployment build chain that included a step that captured screenshots of pages to check for styling regressions.",
+        "Helped push the adoption of github across the department.",
         "I'm also completely happy to follow someone else's lead when they are using good tech ;-)"
       ]
     },
