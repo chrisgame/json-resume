@@ -41,7 +41,7 @@
         "Diagnosed complex performance problems, some of which could be fixed immediately, and others that needed to be worked around until improvements were made to the Ember framework it's self.",
         "Introduced automated testing practices to the team to stop regressions occurring in the product. Convinced the team to use ember-cli-mirage, to have a complete mock of the api for testing. This also allowed us to create all the scenarios that only occurred occassionally and make sure that we were handling them correctly by building tests for them in the CI process.",
         "Go-to expert for debugging Ember apps, improving team productivity significantly.",
-        "Coaching “junior” engineers to help develop their skills, knowledge and thought processes"
+        "Coaching “junior” engineers to help develop their skills, knowledge and thought processes."
       ]
     },
     {
