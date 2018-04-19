@@ -33,7 +33,7 @@
       "website": "http://<your-instance-name>.kayako.com/admin",
       "website": "https://www.kayako.com/free-trial",
       "startDate": "2015-04-27",
-      "endDate": "2018-03-01",
+      "endDate": "2018-05-31",
       "summary": "Working closely with the founders to build and improve the product, Kayako is a SaaS solution that allows customers to manage conversations across many different channels. My time was focused on the areas of the app that the agent uses to reply to customers and administer their instance. This was a single app written in Ember. Having used Ember in my previous role, I was very keen to specialise and create even more ambitious apps like Kayako, which uses a number of complex features including an infinitely scrolling timeline of variable size items, multiple complex selection components including an automation rule builder, graphical search composer and a complex in-app tab solution.",
       "highlights": [
         "Contributed to open-source projects (something I would like to continue doing).",
