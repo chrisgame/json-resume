@@ -117,6 +117,13 @@
   }],
   "publications": [
     {
+      "name": "Customising Ember Power Select",
+      "releaseDate": "2018-03-23",
+      "summary": "Whether you use EPS in your app already or you are yet to experience this wonderful add-on, it may come as a surprise to you how much it can be customised. The whole component can be restyled and—to a certain extent the behaviour—can be changed.",
+      "publisher": "Medium",
+      "url": "https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c"
+    },
+    {
       "name": "Ever had to hack around aligning text with an image?",
       "releaseDate": "2018-03-01",
       "summary": "I did and this what i found…",
