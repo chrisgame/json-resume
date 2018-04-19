@@ -186,6 +186,8 @@
     {
       "name": "Photography",
       "keywords": [
+        "landscapes",
+        "motorsport",
         "canon"
       ]
     },
@@ -194,15 +196,8 @@
       "keywords": [
         "plumbing",
         "plastering",
+        "tiling",
         "demolition"
-      ]
-    },
-    {
-      "name": "Beer",
-      "keywords": [
-        "doombar",
-        "broadside",
-        "etc"
       ]
     }
   ]
